@@ -11,7 +11,7 @@
 html, body {
     width: 100vw;
     height: 100vh;
-    background-color: #3369ff;
+    background-color: #233eff;
     background-size: contain;
     background-repeat: no-repeat;
 }
@@ -19,4 +19,5 @@ html, body {
 h1 {
     color: white;
     text-shadow: 3px 3px 0px #121d77;
+    padding: 10px;
 }
